@@ -1,4 +1,6 @@
 # UditVegad
+----
+# Web developer | Discord bot developer | Freelancer | Graphic Designer | Video editor | Content Creator 
 
 -----
 <div align="center">
