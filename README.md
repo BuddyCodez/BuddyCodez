@@ -1,3 +1,4 @@
+<div style="display:flex;align-items:center;justify-content:center;flex-direction:column;">
 <h2 align="center">Welcome to My Profile!</h2>
 
 
@@ -21,3 +22,4 @@ I am Full-Stack Developer. I can also Make MERN/MEVN Stack Web Apps<br>
 
 
 <img src="https://komarev.com/ghpvc/?username=BuddyCodez&label=Profile%20views&color=0e75b6&style=flat" alt="lazyllama" />
+</div>
