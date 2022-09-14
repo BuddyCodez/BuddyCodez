@@ -19,4 +19,4 @@ I am Full-Stack Developer. I can also Make MERN/MEVN Stack Web Apps<br>
 </p>
 
 
-<img src="https://komarev.com/ghpvc/?username=lazylllama&label=Profile%20views&color=0e75b6&style=flat" alt="lazyllama" />
+<img src="https://komarev.com/ghpvc/?username=BuddyCodez&label=Profile%20views&color=0e75b6&style=flat" alt="lazyllama" />
