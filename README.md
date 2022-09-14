@@ -19,7 +19,7 @@ I am Full-Stack Developer. I can also Make MERN/MEVN Stack Web Apps<br>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://discord.com/users/754965470888722484" target="blank"><img align="center" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" alt="mxAqDMDmqE" height="30" width="40" /></a>
+<a href="https://discord.com/users/480285300484997122" target="blank"><img align="center" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" alt="mxAqDMDmqE" height="30" width="40" /></a>
 </p>
 
 
