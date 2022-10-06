@@ -1,10 +1,12 @@
 <div style="display:flex;align-items:center;justify-content:center;flex-direction:column;">
 <h2 align="center">Welcome to My Profile!</h2>
 
-
-
+<h3> 
+Current Discod Profile:</h3>
 <a href ="https://discord.com/users/480285300484997122"><img align="right" src="https://lanyard-profile-readme.vercel.app/api/480285300484997122?bg=121212" width="418"></a>
 <br />
+<h3> 
+Current Spotify Activity:</h3>
 <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=31hdgxhgrksaijtsyx7tshmlwx4a&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31hdgxhgrksaijtsyx7tshmlwx4a&cover_image=true&theme=compact" align="right" width="306" > </a>
 
 
