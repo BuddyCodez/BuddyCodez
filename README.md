@@ -5,13 +5,7 @@
 My Discord Profile:</h3>
 <a href ="https://discord.com/users/480285300484997122"><img align="right" src="https://lanyard-profile-readme.vercel.app/api/480285300484997122?bg=121212" width="418"></a>
 <br />
-<br><br><br><br><br><br><br><br><br><br>
-
-
-
-
-<br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br>
 
 <p align="center" style="color: orange">
 Hi, im Udit Vegad!<br>
