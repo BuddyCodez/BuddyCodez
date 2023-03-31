@@ -2,14 +2,11 @@
 <h2 align="center">Welcome to My Profile!</h2>
 
 <h3> 
-Current Discord Profile:</h3>
+My Discord Profile:</h3>
 <a href ="https://discord.com/users/480285300484997122"><img align="right" src="https://lanyard-profile-readme.vercel.app/api/480285300484997122?bg=121212" width="418"></a>
 <br />
 <br><br><br><br><br><br><br><br><br><br>
 
-<h3> 
-Current Spotify Activity:</h3>
-<a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=31hdgxhgrksaijtsyx7tshmlwx4a&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31hdgxhgrksaijtsyx7tshmlwx4a&cover_image=true&theme=compact" align="right" width="306" > </a>
 
 
 
@@ -18,7 +15,7 @@ Current Spotify Activity:</h3>
 
 <p align="center" style="color: orange">
 Hi, im Udit Vegad!<br>
- I mainly Make Discord bots usinf Nodejs and I also make website using html css and js.<br>
+ I mainly Make Discord bots using Nodejs and I also make website using html css and js.<br>
 I am Full-Stack Developer. I can also Make MERN/MEVN Stack Web Apps<br>
 
 <h3 align="center">Connect with me:</h3>
