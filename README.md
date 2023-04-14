@@ -2,7 +2,7 @@
 <h2 align="center">Welcome to My Profile!</h2>
   ## Udit Vegad aka BuddyCodeZ
 
-Hello there! Welcome to my GitHub profile. I am Udit Vegad, also known as BuddyCodeZ. I am a developer with a passion for creating websites, Discord bots, and designing basic graphics. I love to code and explore new technologies. 
+- Hello there! Welcome to my GitHub profile. I am Udit Vegad, also known as BuddyCodeZ. I am a developer with a passion for creating websites, Discord bots, and designing basic graphics. I love to code and explore new technologies. 
 
 ## Achievements
 
