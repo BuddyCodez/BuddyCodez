@@ -1,22 +1,25 @@
 <div style="display:flex;align-items:center;justify-content:center;flex-direction:column;">
-<h2 align="center">Welcome to My Profile!</h2>
+<h2 align="center">Welcome to My Profile!</h2># Udit Vegad aka BuddyCodeZ
 
-<h3> 
-My Discord Profile:</h3>
-<a href ="https://discord.com/users/480285300484997122"><img align="right" src="https://lanyard-profile-readme.vercel.app/api/480285300484997122?bg=121212" width="418"></a>
-<br />
-<br><br><br>
+Hello there! Welcome to my GitHub profile. I am Udit Vegad, also known as BuddyCodeZ. I am a developer with a passion for creating websites, Discord bots, and designing basic graphics. I love to code and explore new technologies. 
 
-<p align="center" style="color: orange">
-Hi, im Udit Vegad!<br>
- I mainly Make Discord bots using Nodejs and I also make website using html css and js.<br>
-I am Full-Stack Developer. I can also Make MERN/MEVN Stack Web Apps<br>
+## Achievements
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://discord.com/users/480285300484997122" target="blank"><img align="center" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" alt="mxAqDMDmqE" height="30" width="40" /></a>
-</p>
+- Completed Bachelor's Degree in Computer Science
+- Successfully developed and deployed several websites and Discord bots
+- Gained expertise in HTML, CSS, JavaScript, Python, and Discord.js
+- Participated in various coding competitions and hackathons
+
+## GitHub Stats
+
+![GitHub Stars](https://img.shields.io/github/stars/BuddyCodez?style=flat&logo=github&color=yellow) 
+![GitHub Followers](https://img.shields.io/github/followers/BuddyCodez?style=flat&logo=github&color=brightgreen)
 
 
-<img src="https://komarev.com/ghpvc/?username=BuddyCodez&label=Profile%20views&color=0e75b6&style=flat" alt="lazyllama" />
-</div>
+## Follow Me
+
+If you are interested in my work and want to stay updated with my latest projects, feel free to follow me on GitHub. I am always open to collaboration and learning new things. Let's code together!
+
+[![GitHub Follow](https://img.shields.io/github/followers/BuddyCodez?label=Follow&style=social)](https://github.com/BuddyCodez)
+
+Thank you for visiting my GitHub profile! Let's connect and create something amazing! 🚀🔥😄
