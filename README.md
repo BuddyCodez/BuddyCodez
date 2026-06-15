@@ -106,65 +106,6 @@ VCS     → Lazygit + conventional commits
 </tr>
 </table>
 
----
-
-## `$ ls ./projects --sort=impact`
-
-### 🎵 Nocta — Cross-Platform Music App
-> *A Spotify-grade listening experience, proxied, cached, and dark-mode-first*
-
-| | |
-|---|---|
-| **Architecture** | Turborepo monorepo · React Native (Unistyles) · Elysia/Bun API · oRPC |
-| **Auth & Caching** | Better Auth · per-user Spotify token caching via Redis |
-| **API Design** | Server-side Spotify Web API proxy — no client-side token exposure |
-| **UX Philosophy** | Offline-first · dark-mode-first · ocean-core aesthetic |
-
-`React Native` `Bun` `Elysia` `oRPC` `Redis` `Prisma` `PostgreSQL` `Better Auth` `Unistyles`
-
----
-
-### 🌊 CTAS — Coastal Threat Alert System
-> *Real-time geospatial threat detection and multi-hazard alert broadcasting*
-
-| | |
-|---|---|
-| **Architecture** | Event-driven ingestion · WebSocket push via oRPC · PostGIS spatial engine |
-| **ML Models** | Cyclone prediction · storm surge · coastal erosion · pollution index |
-| **Visualization** | Mapbox GL — live threat overlays with dynamic severity gradients |
-| **Alert Pipeline** | Real-time multi-channel broadcasting with priority-based event queuing |
-
-`PostGIS` `Mapbox GL` `oRPC` `WebSockets` `Python` `TypeScript`
-
----
-
-### 🏙️ City-Hub — Urban Intelligence Platform
-> *Hackathon runner-up · civic tech platform connecting citizens to city infrastructure*
-
-| | |
-|---|---|
-| **Built at** | Hack The Spring — 🥈 Runner-up |
-| **Core Problem** | Fragmented civic reporting and municipal response tracking |
-| **Architecture** | Real-time issue tracking · role-based municipal dashboard · geolocation tagging |
-| **Stack** | Full-stack TypeScript · REST API · interactive city map layer |
-
-`TypeScript` `React` `Node.js` `PostgreSQL` `Mapbox`
-
----
-
-### 💸 Klarheit — Fintech Fraud Detection Dashboard
-> *Real-time transaction anomaly detection with risk scoring and alert management*
-
-| | |
-|---|---|
-| **Core Problem** | Late or missed fraud signals in high-velocity transaction streams |
-| **Architecture** | Rule-based + ML risk engine · real-time alert feed · analyst review queue |
-| **Fintech Signals** | Transaction pattern analysis · velocity checks · anomaly flagging |
-| **Stack** | TypeScript · React · Python (ML layer) · PostgreSQL |
-
-`TypeScript` `React` `Python` `PostgreSQL` `Data Visualization`
-
----
 
 ## `$ git log --stat`
 
